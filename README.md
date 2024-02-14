@@ -1,2 +1,2 @@
 # Development-Work
-Git repository for development and work.
+Git repository for development.
